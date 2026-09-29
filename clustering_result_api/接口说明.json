@@ -1,0 +1,8 @@
+{
+  "请求方式": "GET",
+  "接口地址": "http://127.0.0.1:8000/api/clustering/result",
+  "URL参数": "无",
+  "JSON请求参数": "无",
+  "认证": "No Auth",
+  "返回类型": "application/json"
+}
